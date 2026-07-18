@@ -11,7 +11,6 @@ Santix nu oferă diagnostic medical. Răspunsurile despre simptome sunt doar ori
 - explorator 3D pentru schelet, sistem muscular și organe interne;
 - selectarea structurilor anatomice din model și afișarea detaliilor relevante;
 - denumiri în română și, unde este cazul, denumiri științifice;
-- glosar / ghid cu informații anatomice;
 - quiz de anatomie cu întrebări de verificare;
 - asistent AI contextual, legat de structura selectată;
 - triaj local orientativ pentru durere, cu întrebări ghidate;
