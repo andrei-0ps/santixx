@@ -35,7 +35,8 @@ Motorul conversațional are componente pentru normalizarea răspunsurilor, stare
 ## Rulare locală
 
 1. Clonează repository-ul.
-2. Instalează dependențele:
+2. Instalează Node js.
+3. Instalează dependențele:
 
 ```bash
 npm install
