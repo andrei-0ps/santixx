@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "organ-inima",
+    "model_selection_id": "organ:inima",
+    "name_ro": "Inimă",
+    "latin_name": "Cor",
+    "category": "Aparat cardiovascular",
+    "body_region": "torace",
+    "description_ro": "Organ muscular situat în torace, între plămâni, cu rol central în circulația sângelui.",
+    "function_ro": "Pompează sângele către plămâni și către restul corpului."
+  },
+  {
+    "slug": "organ-plamani",
+    "model_selection_id": "organ:plamani",
+    "name_ro": "Plămâni",
+    "latin_name": "Pulmones",
+    "category": "Aparat respirator",
+    "body_region": "torace",
+    "description_ro": "Organe pereche din torace, responsabile de schimbul de gaze dintre aer și sânge.",
+    "function_ro": "Permit oxigenarea sângelui și eliminarea dioxidului de carbon."
+  },
+  {
+    "slug": "organ-ficat",
+    "model_selection_id": "organ:ficat",
+    "name_ro": "Ficat",
+    "latin_name": "Hepar",
+    "category": "Aparat digestiv",
+    "body_region": "abdomen",
+    "description_ro": "Organ voluminos din partea dreaptă superioară a abdomenului.",
+    "function_ro": "Procesează nutrienți, produce bilă și participă la detoxifierea organismului."
+  },
+  {
+    "slug": "organ-stomac",
+    "model_selection_id": "organ:stomac",
+    "name_ro": "Stomac",
+    "latin_name": "Ventriculus",
+    "category": "Aparat digestiv",
+    "body_region": "abdomen",
+    "description_ro": "Organ cavitar al digestiei, situat în abdomenul superior.",
+    "function_ro": "Amestecă alimentele cu sucuri gastrice și începe digestia proteinelor."
+  },
+  {
+    "slug": "organ-rinichi",
+    "model_selection_id": "organ:rinichi",
+    "name_ro": "Rinichi",
+    "latin_name": "Renes",
+    "category": "Aparat urinar",
+    "body_region": "abdomen",
+    "description_ro": "Organe pereche care filtrează sângele și contribuie la formarea urinei.",
+    "function_ro": "Elimină produse de metabolism și reglează echilibrul de apă și săruri."
+  },
+  {
+    "slug": "organ-intestine",
+    "model_selection_id": "organ:intestine",
+    "name_ro": "Intestine",
+    "latin_name": "Intestina",
+    "category": "Aparat digestiv",
+    "body_region": "abdomen",
+    "description_ro": "Segmente digestive aflate în abdomen, implicate în absorbția nutrienților și eliminare.",
+    "function_ro": "Finalizează digestia, absoarbe nutrienți și formează materiile fecale."
+  },
+  {
+    "slug": "organ-pancreas",
+    "model_selection_id": "organ:pancreas",
+    "name_ro": "Pancreas",
+    "latin_name": "Pancreas",
+    "category": "Aparat digestiv și endocrin",
+    "body_region": "abdomen",
+    "description_ro": "Organ alungit situat posterior de stomac, cu rol digestiv și endocrin.",
+    "function_ro": "Produce enzime digestive și hormoni implicați în reglarea glicemiei."
+  },
+  {
+    "slug": "organ-vezica-urinara",
+    "model_selection_id": "organ:vezica-urinara",
+    "name_ro": "Vezică urinară",
+    "latin_name": "Vesica urinaria",
+    "category": "Aparat urinar",
+    "body_region": "pelvis",
+    "description_ro": "Organ cavitar din pelvis care depozitează urina.",
+    "function_ro": "Stochează urina înainte de eliminare."
+  },
+  {
+    "slug": "organ-esofag",
+    "model_selection_id": "organ:esofag",
+    "name_ro": "Esofag",
+    "latin_name": "Oesophagus",
+    "category": "Aparat digestiv",
+    "body_region": "gat_torace",
+    "description_ro": "Tub muscular care transportă alimentele din faringe către stomac.",
+    "function_ro": "Conduce bolul alimentar către stomac prin mișcări peristaltice."
+  },
+  {
+    "slug": "organ-trahee",
+    "model_selection_id": "organ:trahee",
+    "name_ro": "Trahee",
+    "latin_name": "Trachea",
+    "category": "Aparat respirator",
+    "body_region": "gat_torace",
+    "description_ro": "Conduct respirator care face legătura dintre laringe și bronhii.",
+    "function_ro": "Permite trecerea aerului către plămâni."
+  }
+]
